@@ -1,4 +1,4 @@
-1. pull code
+1. pull code into $GOHOME/src/github.com/dariuszkorolczukcom
 2. cd into the directory
 3. go build
 4. run the executable
